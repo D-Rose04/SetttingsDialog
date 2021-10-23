@@ -15,8 +15,8 @@ namespace settingsDialog
         public Form1()
         {
             InitializeComponent();
-            
         }
+        //prueba comentario
 
     }
 }
