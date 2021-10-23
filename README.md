@@ -1,0 +1,2 @@
+# SetttingsDialog
+Settings Dialog Design
